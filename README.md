@@ -19,7 +19,7 @@ This project is a deep learning-powered web application designed to detect Alzhe
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alzheimers-detection.git
+   git clone https://github.com/shameeraibrahim/alzheimers-detection.git
 2. Navigate to the project directory:
 
     cd alzheimers-detection
